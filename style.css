@@ -1,0 +1,12 @@
+td,th{
+    border: 1px solid #ddd;
+    padding: 10px 5px;
+}
+table{
+    border-collapse: collapse;
+}
+
+
+/*------------------ form  START -----------------*/
+
+/*----------------- form FINISHED -----------------*/
